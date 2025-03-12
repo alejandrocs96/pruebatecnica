@@ -1,0 +1,11 @@
+CREATE TABLE transactions (
+    TransactionId INT IDENTITY(1,1) PRIMARY KEY,
+    IdPerson INT NOT NULL,
+    CoinType NVARCHAR(50) NULL,
+    Mount DECIMAL(18,2) NOT NULL,
+    CreatedDate DATETIME NULL,
+    UpdatedDate DATETIME NULL,
+    State INT NOT NULL,
+    DigitalSignature NVARCHAR(MAX) NULL,
+    PersonTransactionId INT NOT NULL
+);

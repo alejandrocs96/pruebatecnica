@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ib3NTLcNMiUE6NeamxQ54hFXzuq/J+6Whetim8bOlhQ=",
+  "Source": "transaction-backend",
+  "BasePath": "_content/transaction-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

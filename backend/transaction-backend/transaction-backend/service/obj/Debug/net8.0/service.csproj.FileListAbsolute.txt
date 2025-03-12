@@ -1,0 +1,15 @@
+C:\Users\bonev\source\repos\transaction-backend\service\bin\Debug\net8.0\service.deps.json
+C:\Users\bonev\source\repos\transaction-backend\service\bin\Debug\net8.0\service.dll
+C:\Users\bonev\source\repos\transaction-backend\service\bin\Debug\net8.0\service.pdb
+C:\Users\bonev\source\repos\transaction-backend\service\bin\Debug\net8.0\dto.dll
+C:\Users\bonev\source\repos\transaction-backend\service\bin\Debug\net8.0\dto.pdb
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.csproj.Up2Date
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.dll
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\refint\service.dll
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\service.pdb
+C:\Users\bonev\source\repos\transaction-backend\service\obj\Debug\net8.0\ref\service.dll
