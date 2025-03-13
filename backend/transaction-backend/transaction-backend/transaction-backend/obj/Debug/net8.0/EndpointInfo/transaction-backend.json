@@ -62,7 +62,7 @@
         }
       }
     },
-    "/api/Payments/getAllTransaction/{IdPerson}": {
+    "/api/transaction/getAllTransaction/{IdPerson}": {
       "get": {
         "tags": [
           "transaction"

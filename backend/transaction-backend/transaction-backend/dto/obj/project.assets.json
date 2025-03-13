@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj",
+      "projectUniqueName": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj",
       "projectName": "dto",
-      "projectPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj",
+      "projectPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj",
       "packagesPath": "C:\\Users\\bonev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\obj\\",
+      "outputPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,15 +1,15 @@
 [
   {
     "ContainingType": "transaction_backend.Controllers.transactionController",
-    "Method": "GetTransactions",
-    "RelativePath": "api/Payments/getAllTransaction/{IdPerson}",
-    "HttpMethod": "GET",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/transaction/generateTransaction",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "IdPerson",
-        "Type": "System.Int32",
+        "Name": "transactionBody",
+        "Type": "dto.DTO.transactionDTO",
         "IsRequired": true
       }
     ],
@@ -27,15 +27,15 @@
   },
   {
     "ContainingType": "transaction_backend.Controllers.transactionController",
-    "Method": "CreateTransaction",
-    "RelativePath": "api/transaction/generateTransaction",
-    "HttpMethod": "POST",
+    "Method": "GetTransactions",
+    "RelativePath": "api/transaction/getAllTransaction/{IdPerson}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "transactionBody",
-        "Type": "dto.DTO.transactionDTO",
+        "Name": "IdPerson",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

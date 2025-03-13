@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bonev\\source\\repos\\transaction-backend\\service\\service.csproj": {}
+    "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\service\\service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj": {
+    "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj",
+        "projectUniqueName": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj",
         "projectName": "dto",
-        "projectPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj",
+        "projectPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj",
         "packagesPath": "C:\\Users\\bonev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\obj\\",
+        "outputPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\bonev\\source\\repos\\transaction-backend\\service\\service.csproj": {
+    "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\service\\service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\service\\service.csproj",
+        "projectUniqueName": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\service\\service.csproj",
         "projectName": "service",
-        "projectPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\service\\service.csproj",
+        "projectPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\service\\service.csproj",
         "packagesPath": "C:\\Users\\bonev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\service\\obj\\",
+        "outputPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj": {
-                "projectPath": "C:\\Users\\bonev\\source\\repos\\transaction-backend\\dto\\dto.csproj"
+              "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj": {
+                "projectPath": "C:\\Users\\bonev\\OneDrive\\Documentos\\dt\\pruebatecnica\\backend\\transaction-backend\\transaction-backend\\dto\\dto.csproj"
               }
             }
           }

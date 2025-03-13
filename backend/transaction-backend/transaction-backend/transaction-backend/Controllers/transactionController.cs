@@ -26,7 +26,7 @@ public class transactionController : ControllerBase
         return Ok(result); // Usar Ok() en lugar de JsonResult
     }
 
-    [HttpGet("/api/Payments/getAllTransaction/{IdPerson}")]
+    [HttpGet("getAllTransaction/{IdPerson}")]
     [AllowAnonymous]
     [ProducesResponseType(typeof(List<responseDTO<string>>), 200)]
     public async Task<IActionResult> GetTransactions(int IdPerson)
